@@ -1,0 +1,9 @@
+## Interface: 11501
+## Title: Tooltip - Darkmoon Faire
+## Author: Nykk of SoD-US-Wild Growth [Agents of Casual, Horde]
+## Notes: Adds Tooltips for Darkmoon Faire items
+## IconTexture: Interface\ICONS\Inv_box_04
+## Version: 1.00
+
+data/SOD_DarkmoonFaire.lua
+Tooltip_DarkmoonFaire.lua

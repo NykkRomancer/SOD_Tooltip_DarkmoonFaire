@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/NykkRomancer/SOD_DarkmoonFaire_Data.git
+	branch = main
